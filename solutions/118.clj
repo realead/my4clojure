@@ -22,11 +22,6 @@
 
 (def __ my-map)
 
-
-(cons 1 nil)
-(conj '(2 3) 3)
-
-(my-map inc [2 3 4 5 6])
 ; tests
 
 (= [3 4 5 6 7]
