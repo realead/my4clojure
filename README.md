@@ -1,7 +1,7 @@
 # my4clojure
 Caveman's solutions for problems from 4clojure.org
 
-This are my first steps with Clojure (or any functional language for that matter), this hopefully explain the stranges of the solution.
+This are my first steps with Clojure (or any functional language for that matter), this hopefully explain the strangness of the solutions.
 
 One day I might revisit them.
 
@@ -14,4 +14,4 @@ Every solution has the number of the problem and the name of the problem, so `gr
     >>>grep -r -I "Veitch"
     solutions/hard/140.clj:;;; Solution for 140. Veitch, Please!
 
-*NB:* There are not all "Elementary" and "Easy" problems present - those solution where done online.
+*NB:* There are no "Elementary"-problems - those solution were done online.
